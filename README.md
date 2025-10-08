@@ -12,7 +12,7 @@ A non-profit organization based in Rwanda, dedicated to breaking the cycle of po
 
 ## Live Website
 
-Visit the live site at: `https://[your-username].github.io/hirwaimpact`
+Visit the live site at: `https://[organisation].github.io/hirwaimpact`
 
 ## Contact
 
